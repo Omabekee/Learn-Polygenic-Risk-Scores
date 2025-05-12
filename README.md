@@ -18,7 +18,11 @@ You can go at your own pace, just start from the first module and follow through
 
 **Start here:**
 
-- Module 1: [Introduction to PRS (from scratch)](https://github.com/Omabekee/Learn-Polygenic-Risk-Scores/blob/main/learn_prs_beginner_guide.md)
+- Module 1: [From GWAS to PRS](https://github.com/Omabekee/Learn-Polygenic-Risk-Scores/blob/main/learn_prs_beginner_guide.md#-module-1-from-gwas-to-prs)
+
+- Module 2: [Foundations of PRS](https://github.com/Omabekee/Learn-Polygenic-Risk-Scores/blob/main/learn_prs_beginner_guide.md#-module-2-foundations-of-prs)
+
+- Module 3: [Building a PRS](https://github.com/Omabekee/Learn-Polygenic-Risk-Scores/blob/main/learn_prs_beginner_guide.md#-module-3-building-a-prs)
 
 - _Advanced PRS (Coming soon...)_
 ---
