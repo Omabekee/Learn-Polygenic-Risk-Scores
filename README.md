@@ -10,13 +10,17 @@ We want you to feel like you've finally found the resource you didn’t know you
 
 ## 🗂️ Repository Structure
 
-This guide is organised into **modules**. Each module builds on the last, using videos, articles, sample data or hands-on tools.
+## 🗂️ PRS Learning Path
 
-Start from here:
+This guide is organised into beginner-friendly **modules** that build on one another. Each module includes short videos, clear articles and hands-on tools.
 
-- [Introduction to PRS (from scratch)](https://github.com/Omabekee/Learn-Polygenic-Risk-Scores/blob/main/learn_prs_beginner_guide.md)
+You can go at your own pace, just start from the first module and follow through.
 
-- Advanced PRS (Coming soon...)
+**Start here:**
+
+- Module 1: [Introduction to PRS (from scratch)](https://github.com/Omabekee/Learn-Polygenic-Risk-Scores/blob/main/learn_prs_beginner_guide.md)
+
+- /Advanced PRS (Coming soon...)/
 ---
 
 ## 🙌 Contribute or Star This Repo
