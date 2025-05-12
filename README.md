@@ -20,7 +20,7 @@ You can go at your own pace, just start from the first module and follow through
 
 - Module 1: [Introduction to PRS (from scratch)](https://github.com/Omabekee/Learn-Polygenic-Risk-Scores/blob/main/learn_prs_beginner_guide.md)
 
-- /Advanced PRS (Coming soon...)/
+- _Advanced PRS (Coming soon...)_
 ---
 
 ## 🙌 Contribute or Star This Repo
