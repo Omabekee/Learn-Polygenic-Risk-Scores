@@ -14,7 +14,7 @@ This guide is organised into **modules**. Each module builds on the last, using 
 
 Start from here:
 
-- [Introduction to PRS (from scratch)]{https://github.com/Omabekee/Learn-Polygenic-Risk-Scores/blob/main/learn_prs_beginner_guide.md}
+- [Introduction to PRS (from scratch)](https://github.com/Omabekee/Learn-Polygenic-Risk-Scores/blob/main/learn_prs_beginner_guide.md)
 
 - Advanced PRS (Coming soon...)
 ---
