@@ -8,9 +8,7 @@ We want you to feel like you've finally found the resource you didn’t know you
 
 ---
 
-## 🗂️ Repository Structure
-
-## 🗂️ PRS Learning Path
+## 🗂️ PRS Learning Roadmap
 
 This guide is organised into beginner-friendly **modules** that build on one another. Each module includes short videos, clear articles and hands-on tools.
 
