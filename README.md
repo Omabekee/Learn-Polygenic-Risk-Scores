@@ -11,3 +11,15 @@ We want you to feel like you've finally found the resource you didn’t know you
 ## 🗂️ Repository Structure
 
 This guide is organised into **modules**. Each module builds on the last, using videos, articles, sample data or hands-on tools.
+
+---
+
+## 🙌 Contribute or Star This Repo
+
+This project is open-source and community-supported. If you found this helpful, please:
+
+* 🌟 **Star** this repository
+* 🔄 **Share** with someone who might need it
+* 🧠 **Contribute** - Add new resources, correct typos, suggest content
+
+Welcome to the world of PRS!
