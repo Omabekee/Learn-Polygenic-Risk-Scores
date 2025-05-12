@@ -1,4 +1,4 @@
-# 🌟 The Ultimate Beginner's Guide to Polygenic Risk Scores (PRS)
+# 🌟 The Beginner's Guide to Polygenic Risk Scores (PRS)
 
 Welcome! If you're here, it means you're curious about **genetics**, **disease prediction** or simply trying to make sense of the buzz around **Polygenic Risk Scores (PRS)**. You're in the right place.
 
